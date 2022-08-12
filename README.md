@@ -19,3 +19,11 @@
 <a href="https://github.com/lizhihang123/vue3-erabbit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=vue3-erabbit&theme=buefy" />
 </a>
+
+<a href="https://github.com/lizhihang123/toutiao-m">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=toutiao-m&theme=buefy" />
+</a>
+
+<a href="https://github.com/lizhihang123/hr-management-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=hr-management-system&theme=buefy" />
+</a>
