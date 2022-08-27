@@ -1,6 +1,10 @@
-<h1 align="center">Hi I'm LiZhihang</h1>
+<h1 align="center">你好，我叫李治航</h1>
 
 **About me**
+
+- 我来自 浙江农林大学
+- 我是一位前端爱好者
+- 最近写的比较多的是Vue和JavaScript
 
 - I'm undergraduate student of ZAFU Uninversity
 - I'm a passionate FrontEnd Learner
@@ -24,6 +28,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=toutiao-m&theme=buefy" />
 </a>
 
+<a href="https://github.com/lizhihang123/Data-structure-and-algorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=Data-structure-and-algorithm" />
+</a>
+
 <a href="https://github.com/lizhihang123/hr-management-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=hr-management-system&theme=buefy" />
 </a>
+
+
+
