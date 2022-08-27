@@ -32,6 +32,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=Data-structure-and-algorithm" />
 </a>
 
+
+<a href="https://github.com/lizhihang123/webpack_optimization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=webpack_optimization" />
+</a>
+
 <a href="https://github.com/lizhihang123/hr-management-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=hr-management-system&theme=buefy" />
 </a>
