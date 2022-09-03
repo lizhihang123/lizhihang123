@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/lizhihang123/nodejs-koa2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&nodejs-koa2&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=nodejs-koa2&theme=buefy" />
 </a>
 
 
