@@ -50,6 +50,9 @@
 </a>
 
 
+<a href="https://github.com/lizhihang123/bug_record">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lizhihang123&repo=nodejs-koa2&theme=buefy" />
+</a>
 
 
 
